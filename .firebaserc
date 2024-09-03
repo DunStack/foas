@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "foas-ef217"
+  },
+  "targets": {
+    "foas-ef217": {
+      "hosting": {
+        "app": [
+          "foas"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
