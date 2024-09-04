@@ -10,15 +10,19 @@
     "preview": "rsbuild preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.8.3",
     "@rsbuild/core": "1.0.1-rc.2",
     "@rsbuild/plugin-react": "1.0.1-rc.2",
+    "@tailwindcss/forms": "^0.5.8",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
+    "@types/swagger-schema-official": "^2.0.25",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.44",
     "tailwindcss": "^3.4.10",
